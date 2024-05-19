@@ -1,0 +1,10 @@
+C:/Users/QForm/Desktop/windows-start/desktop_app/build/CMakeFiles/INSTALL.dir
+C:/Users/QForm/Desktop/windows-start/desktop_app/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/QForm/Desktop/windows-start/desktop_app/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/QForm/Desktop/windows-start/desktop_app/build/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/QForm/Desktop/windows-start/desktop_app/build/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/QForm/Desktop/windows-start/desktop_app/build/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/QForm/Desktop/windows-start/desktop_app/build/flutter/CMakeFiles/INSTALL.dir
+C:/Users/QForm/Desktop/windows-start/desktop_app/build/runner/CMakeFiles/desktop_app.dir
+C:/Users/QForm/Desktop/windows-start/desktop_app/build/runner/CMakeFiles/INSTALL.dir
+C:/Users/QForm/Desktop/windows-start/desktop_app/build/runner/CMakeFiles/ALL_BUILD.dir
